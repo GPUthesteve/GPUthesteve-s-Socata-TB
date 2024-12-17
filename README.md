@@ -1,2 +1,2 @@
-# GPUthesteve's Socata TB
- an open sourced model rendition of Socata TB series for microsoft flight simulator(s)
+# GPUthesteve's SOCATA/Daher TB project
+ an open sourced model rendition of the SOCATA TB series for microsoft flight simulator(s)
